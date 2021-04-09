@@ -1,0 +1,37 @@
+    .heading_one{
+        color: white;
+        background-color:black;
+    }
+    .heading_two{
+        color: blueviolet;
+        background-color: darkkhaki;
+    }
+    .heading_three{
+        color: rgb(65, 38, 6);
+        background-color: darkturquoise;
+    }
+    .heading_four{
+        color: forestgreen;
+        background-color: yellow;
+    }
+    .heading_five{
+        color: black;
+        background-color: orange;
+
+    }
+    .heading_six{
+        color: crimson;
+        background-color: mediumseagreen;
+    }
+    .heading_seven{
+        color:white;
+        background-color: navy;
+    }
+    .heading_eight{
+        color: orangered;
+        background-color: pink;
+    }
+    .heading_nine{
+        color: turquoise;
+        background-color: brown;
+    }
